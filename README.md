@@ -4,7 +4,7 @@ This project is a lightweight and easy-to-use skeleton to create a JEE applicati
 
 ### Structure
 
-  * `main/java/car/tp4/entity`
+  * `main/java/car/tp4/entity` 
     
     Contains all entities (EJB) (`Book` entity, `BookBean` bean examples).
     
@@ -15,7 +15,7 @@ This project is a lightweight and easy-to-use skeleton to create a JEE applicati
   * `resources/META-INF`
     
     Contains all the configuration files for the deployment.
-    `persistence.xml` declares how to persist the app beans.
+    `persistence.xml`  declares how to persist the app beans.
     We have to write a `persistence-unit` for each entity of the application.
     
   * `webapp/jsp`
