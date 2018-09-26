@@ -15,7 +15,7 @@ public class Book {
   private long id;
   private String author;
   private String title;
-  private String year ;
+  private String year;
   private int quantity;
 
   /**
