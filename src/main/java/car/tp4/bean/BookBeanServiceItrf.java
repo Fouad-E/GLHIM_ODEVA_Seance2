@@ -31,7 +31,7 @@ public interface BookBeanServiceItrf {
      * add a book to the base
      * @param book list of Book object
      */
-    Book addBook(Book book);
+    void addBook(Book book);
 
     /**
      * searche a book in the base
